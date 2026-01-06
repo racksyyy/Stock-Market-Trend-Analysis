@@ -1,3 +1,3 @@
-# AI-Stock-Market-Trend-Analysis
+# Stock-Market-Trend-Analysis
 
 An AI Project 
