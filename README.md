@@ -1,3 +1,3 @@
-# Stock-Market-Trend-Analysis
+# AI-Stock-Market-Trend-Analysis
 
 
