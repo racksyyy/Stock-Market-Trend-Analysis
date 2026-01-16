@@ -246,7 +246,7 @@ class StockAnalyzer:
             iso_model = IsolationForest(
                 n_estimators=100, 
                 max_samples='auto', 
-                contamination=0.05, 
+                contamination=0.10, 
                 random_state=42, 
                 max_features=len(FEATURE_COLUMNS), 
                 n_jobs=-1

@@ -10,6 +10,10 @@ from datetime import datetime, timedelta
 import plotly.graph_objects as go
 import plotly.express as px
 from backend import get_stock_analysis, get_available_tickers, load_historical_data
+import importlib
+import backend
+importlib.reload(backend)
+
 
 # Page configuration
 st.set_page_config(
