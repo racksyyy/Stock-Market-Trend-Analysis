@@ -2,9 +2,15 @@
 
 A comprehensive machine learning system for stock market analysis featuring anomaly detection, clustering, and trend prediction with an interactive Streamlit interface.
 
+**Project Report Link: https://docs.google.com/document/d/1F9g_Juo-4Gr9gBWMNUASkjTR6PAs3PoJE2WlL3wofLk/edit?usp=sharing**
+
+**Project Presentation Link: https://docs.google.com/presentation/d/1rr_iXtF0ROMDM6uwtrK-Tw09z0VF5--jMn9ZddxPhBw/edit?usp=sharing**
+
+**Project Demonstration Video: https://drive.google.com/file/d/1hXdy_NUFH7xgQRAr6rLJYpkPXmf9psQi/view?usp=sharing**
+
 ## 🚀 Live Demo
 
-**[Try the Live App on Streamlit Cloud]https://ogezephwy73jhvsuz4rmcp.streamlit.app/** ← 
+**[Try the Live App on Streamlit Cloud] https://ogezephwy73jhvsuz4rmcp.streamlit.app/** 
 
 ## 📋 Table of Contents
 - [Overview](#overview)
