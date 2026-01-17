@@ -1,8 +1,3 @@
-"""
-Stock Market Analysis Streamlit UI
-Uses backend.py for all analysis functions
-"""
-
 import streamlit as st
 import pandas as pd
 import numpy as np

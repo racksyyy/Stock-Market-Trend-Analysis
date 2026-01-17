@@ -373,7 +373,7 @@ class StockAnalyzer:
                 print("Insufficient data for training trend model")
                 return
             
-            split_idx = int(len(clean_df) * 0.8)
+            split_idx = int(len(clean_df) * 0.7)
             train_df = clean_df.iloc[:split_idx]
             test_df = clean_df.iloc[split_idx:]
             
