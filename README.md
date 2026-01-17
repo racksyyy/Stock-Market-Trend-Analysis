@@ -4,7 +4,7 @@ A comprehensive machine learning system for stock market analysis featuring anom
 
 ## 🚀 Live Demo
 
-**[Try the Live App on Streamlit Cloud]https://ogezephwy73jhvsuz4rmcp.streamlit.app/** ← 
+**[Try the Live App on Streamlit Cloud] https://ogezephwy73jhvsuz4rmcp.streamlit.app/** 
 
 ## 📋 Table of Contents
 - [Overview](#overview)
