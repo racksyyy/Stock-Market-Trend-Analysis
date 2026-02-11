@@ -1,4 +1,4 @@
-# Stock Market Trend Analysis - AI-Powered Predictive Analytics
+# AI - Stock Market Trend Analysis - AI-Powered Predictive Analytics
 
 A comprehensive machine learning system for stock market analysis featuring anomaly detection, clustering, and trend prediction with an interactive Streamlit interface.
 
